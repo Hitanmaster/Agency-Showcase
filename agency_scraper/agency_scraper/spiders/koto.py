@@ -1,4 +1,5 @@
 import scrapy
+from datetime import datetime
 
 
 class KotoSpider(scrapy.Spider):
@@ -13,11 +14,14 @@ class KotoSpider(scrapy.Spider):
             title = project.css('h2::text').get(default='Untitled').strip()
             href = project.css('::attr(href)').get()
             video = project.css('::attr(data-work-page-thumbnail-video)').get()
-
+            
             yield {
-                'title': title,
-                'url': response.urljoin(href),
-                'video': video,
-                'image': None,  # Optional: if you want to scrape thumbnails too
-                'source': 'koto.studio'
+                "agency_name": "Koto Studio",
+                "project_title": title,
+                "project_description": "",  # Optional: we don't have it here yet
+                "project_url": response.urljoin(href),
+                "project_images": [video] if video else [],
+                "tags": [],  # Empty for now, you can add manually later if needed
+                "scraped_date": datetime.utcnow().isoformat(),
+                "last_updated": datetime.utcnow().isoformat()
             }
