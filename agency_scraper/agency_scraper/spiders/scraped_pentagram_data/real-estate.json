@@ -1,0 +1,86 @@
+[
+    {
+        "title": "One Wall Street",
+        "project_page_url": "https://www.pentagram.com/work/one-wall-street",
+        "description": "Brand identity, marketing campaign, and website for the luxury condominium.",
+        "media_url": "https://pentagram-production.imgix.net/f132cfb7-22dd-4cbe-aa33-501f0f0004a9/20241011_OWS_CaseStudy6.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=100%2C0%2C1800%2C1125&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Real Estate"
+        ]
+    },
+    {
+        "title": "Rayse",
+        "project_page_url": "https://www.pentagram.com/work/rayse",
+        "description": "Name and brand identity for a platform providing transparent, real-time information to clients and agents for residential real estate transactions",
+        "media_url": "https://pentagram-production.imgix.net/2ae567e4-2dc3-47a4-8c31-c8781360d5ad/1_LogoAnimationcopy.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=101%2C0%2C1798%2C1124&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology",
+            "Real Estate"
+        ]
+    },
+    {
+        "title": "Maxwell",
+        "project_page_url": "https://www.pentagram.com/work/maxwell?rel=sector&rel-id=16",
+        "description": "Brand identity for a mortgage lending technology platform for local and community lenders",
+        "media_url": "https://pentagram-production.imgix.net/99cb3092-c295-48ae-91e9-bf8c181636d6/01_LogoAnimationcopy.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=35%2C0%2C1729%2C1080&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Finance",
+            "Real Estate"
+        ]
+    },
+    {
+        "title": "Fifteen Fifteen",
+        "project_page_url": "https://www.pentagram.com/work/fifteen-fifteen?rel=sector&rel-id=16",
+        "description": "Identity and campaign for Büro Ole Scheeren’s first high-rise residential tower in North America.",
+        "media_url": "https://pentagram-production.imgix.net/2cff10b6-51df-49b4-ae9c-3044c8a53cc4/1515_Blogpost_01.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=96%2C0%2C1728%2C1080&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Real Estate"
+        ]
+    },
+    {
+        "title": "Places for London",
+        "project_page_url": "https://www.pentagram.com/work/places-for-london?rel=sector&rel-id=16",
+        "description": "Brand identity for Transport for London’s growing property company.",
+        "media_url": "https://pentagram-production.imgix.net/e3f9ce74-840e-4aac-9d25-e43111ae037c/01_AH_Places_for_London_Case_Study_Website_Header_Final.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C12470%2C7793&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Real Estate"
+        ]
+    },
+    {
+        "title": "April Housing",
+        "project_page_url": "https://www.pentagram.com/work/april-housing?rel=sector&rel-id=16",
+        "description": "A new name and identity for Blackstone’s affordable housing portfolio company.",
+        "media_url": "https://pentagram-production.imgix.net/1191b66f-4595-40c6-ad37-74fba43c517f/April_CS_Desktop_03.gif?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=40%2C0%2C720%2C450&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Finance",
+            "Real Estate"
+        ]
+    },
+    {
+        "title": "MahaNakhon",
+        "project_page_url": "https://www.pentagram.com/work/mahanakhon?rel=sector&rel-id=16",
+        "description": "Dynamic digital wall for the tallest skyscraper in Bangkok",
+        "media_url": "https://pentagram-production.imgix.net/fd65a029-93a7-4f77-90bd-bf7f2f98f1d4/eo_mahanakhon_01.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=315%2C0%2C2685%2C1681&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Civic & Public",
+            "Real Estate"
+        ]
+    },
+    {
+        "title": "JLL",
+        "project_page_url": "https://www.pentagram.com/work/jll?rel=sector&rel-id=16",
+        "description": "Brand Identity for the global real estate services provider",
+        "media_url": "https://pentagram-production.imgix.net/wp/592d468b9e1ca/jo-jll-ft.gif?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C0%2C0&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Real Estate"
+        ]
+    }
+]

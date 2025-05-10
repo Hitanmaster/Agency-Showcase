@@ -1,0 +1,873 @@
+[
+    {
+        "title": "TwelveLabs",
+        "project_page_url": "https://www.pentagram.com/work/twelvelabs",
+        "description": "Visual identity and website for a pioneering company that helps machines understand video like people do.",
+        "media_url": "https://pentagram-production.imgix.net/e71db5d7-fcd0-462d-bf6a-c3c9c1bb5c11/01_TL_Logo_Gradient_16x9_STILL.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=407%2C0%2C3242%2C2160&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "SimpliSafe",
+        "project_page_url": "https://www.pentagram.com/work/simplisafe",
+        "description": "A new brand identity for the leader in home security emphasizes its unique human touch.",
+        "media_url": "https://pentagram-production.imgix.net/d0873c01-eb6b-4a05-93e0-1cc77216bafd/SimpliSafe_Thumbnail.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C3000%2C2000&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Consumer Brands",
+            "Technology"
+        ]
+    },
+    {
+        "title": "Abridge",
+        "project_page_url": "https://www.pentagram.com/work/abridge?rel=sector&rel-id=12",
+        "description": "Brand identity for the AI-powered clinical healthcare conversation platform.",
+        "media_url": "https://pentagram-production.imgix.net/8e83b1ec-eddb-4ea7-b038-8c713c3ae784/Abridge_CaseStudy_11.png.jpeg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=165%2C0%2C1688%2C1125&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Health",
+            "Technology"
+        ]
+    },
+    {
+        "title": "PayPal",
+        "project_page_url": "https://www.pentagram.com/work/paypal?rel=sector&rel-id=12",
+        "description": "Brand identity refresh for the digital payment platform.",
+        "media_url": "https://pentagram-production.imgix.net/88779e1f-326b-48fc-93e5-18b41447c3a8/01_Paypal_Pentagram-TrabuccoCampos.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=96%2C0%2C1728%2C1080&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology",
+            "Finance"
+        ]
+    },
+    {
+        "title": "Pienso",
+        "project_page_url": "https://www.pentagram.com/work/pienso?rel=sector&rel-id=12",
+        "description": "Visual identity refresh, tone of voice and website for a pioneering AI company",
+        "media_url": "https://pentagram-production.imgix.net/0135a3e1-d925-43be-a741-32dbeca6bc68/PIENSO_Casestudy_Cover.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=675%2C0%2C6920%2C4320&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Rayse",
+        "project_page_url": "https://www.pentagram.com/work/rayse?rel=sector&rel-id=12",
+        "description": "Name and brand identity for a platform providing transparent, real-time information to clients and agents for residential real estate transactions",
+        "media_url": "https://pentagram-production.imgix.net/2ae567e4-2dc3-47a4-8c31-c8781360d5ad/1_LogoAnimationcopy.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=101%2C0%2C1798%2C1124&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology",
+            "Real Estate"
+        ]
+    },
+    {
+        "title": "Isomorphic Labs",
+        "project_page_url": "https://www.pentagram.com/work/isomorphic-labs?rel=sector&rel-id=12",
+        "description": "Beautiful Symmetry: Pentagram’s new website for Isomorphic Labs creates a new visual language for digital biology",
+        "media_url": "https://pentagram-production.imgix.net/1a25d64a-276d-412b-8044-5de3ca50651a/ISO_CS_01.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=135%2C0%2C3460%2C2160&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Health",
+            "Technology"
+        ]
+    },
+    {
+        "title": "Stereolabs",
+        "project_page_url": "https://www.pentagram.com/work/stereolabs?rel=sector&rel-id=12",
+        "description": "Visual identity and website for a pioneering company that provides robots with human-like vision",
+        "media_url": "https://pentagram-production.imgix.net/006f0c50-0615-452a-89a4-e1e11aff0835/Stereolabs_Casestudy_Desktop_01.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=135%2C0%2C3460%2C2160&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Manufacturing & Industrials",
+            "Technology"
+        ]
+    },
+    {
+        "title": "Reddit",
+        "project_page_url": "https://www.pentagram.com/work/reddit?rel=sector&rel-id=12",
+        "description": "Brand identity transformation for the “heart of the internet”",
+        "media_url": "https://pentagram-production.imgix.net/506cc7b9-5998-4798-9420-3be03c1202e7/Reddit_Thumbnail.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=409%2C187%2C2243%2C1496&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Bedrock Ocean Exploration",
+        "project_page_url": "https://www.pentagram.com/work/bedrock-ocean-exploration?rel=sector&rel-id=12",
+        "description": "Brand refresh, data visualization, and collateral for the ocean exploration technology corporation.",
+        "media_url": "https://pentagram-production.imgix.net/aa3a7cf1-e452-4fbb-a7a7-a8ac0067591c/Hero-Adjusted.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=4%2C0%2C2993%2C1871&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Education",
+            "Technology"
+        ]
+    },
+    {
+        "title": "Intrinsic",
+        "project_page_url": "https://www.pentagram.com/work/intrinsic?rel=sector&rel-id=12",
+        "description": "A prescience-driven brand identity for Intrinsic, a graduate of X, Alphabet's moonshot factory, that makes-tangible the software powering the future of robotics.",
+        "media_url": "https://pentagram-production.imgix.net/7d86a551-d461-4da3-8d08-c949340ac17d/Header.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Manufacturing & Industrials",
+            "Technology"
+        ]
+    },
+    {
+        "title": "Motiva",
+        "project_page_url": "https://www.pentagram.com/work/motiva?rel=sector&rel-id=12",
+        "description": "A quietly elegant identity lets art, technology and philosophy take center stage in today’s fast paced, digital-focused world.",
+        "media_url": "https://pentagram-production.imgix.net/b6207429-dabe-4dd0-9a48-3a8af21749d3/Motiva_CaseStudy_01copy.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=192%2C0%2C3456%2C2160&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Arts & Culture",
+            "Technology"
+        ]
+    },
+    {
+        "title": "Phenology",
+        "project_page_url": "https://www.pentagram.com/work/phenology?rel=sector&rel-id=12",
+        "description": "Identity and packaging for a new brand redefines menopause relief as the start of an empowering new phase in women’s lives",
+        "media_url": "https://pentagram-production.imgix.net/f6c3f17e-5514-49d9-90b9-5d3f430aff22/Phenology_Thumbnail_3000x1870.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=4%2C0%2C2992%2C1870&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Fashion & Beauty",
+            "Health",
+            "Technology"
+        ]
+    },
+    {
+        "title": "Renaissance",
+        "project_page_url": "https://www.pentagram.com/work/renaissance?rel=sector&rel-id=12",
+        "description": "Brand identity refresh for a global leader in educational technology",
+        "media_url": "https://pentagram-production.imgix.net/02698b7f-e6dd-4bd1-a832-deb1cd7495b1/0_20230417_Renaissance_Herocopy.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=192%2C0%2C3456%2C2160&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Education",
+            "Technology"
+        ]
+    },
+    {
+        "title": "Hologram Sciences",
+        "project_page_url": "https://www.pentagram.com/work/hologram-sciences?rel=sector&rel-id=12",
+        "description": "Brand identity for a company pioneering technological innovation in personalized nutrition",
+        "media_url": "https://pentagram-production.imgix.net/0613d730-e54e-46ba-a409-71e86f479b84/01_hologram_teaser-Original.gif?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=50%2C0%2C900%2C563&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Health",
+            "Technology"
+        ]
+    },
+    {
+        "title": "Cohere",
+        "project_page_url": "https://www.pentagram.com/work/cohere?rel=sector&rel-id=12",
+        "description": "A visual identity for the world’s most ‘hyped’ technology",
+        "media_url": "https://pentagram-production.imgix.net/dd76dfec-f46b-4493-9ded-23c1f2a941e6/CohereMainCase-Website-01-16-9.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=144%2C0%2C2592%2C1620&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Navan",
+        "project_page_url": "https://www.pentagram.com/work/navan?rel=sector&rel-id=12",
+        "description": "Brand identity for an all-in-one travel, corporate card, and expense management solution",
+        "media_url": "https://pentagram-production.imgix.net/9a88fe01-d556-475a-95ae-d28f998992e2/1_NAVAN_OPENING_ANIMATIONcopy.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C62%2C3000%2C1875&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "The Coterie",
+        "project_page_url": "https://www.pentagram.com/work/the-coterie?rel=sector&rel-id=12",
+        "description": "Brand identity for the new platform designed to help founders and investors diversify their portfolios and increase their financial safety.",
+        "media_url": "https://pentagram-production.imgix.net/a23c11a0-37fc-4e92-a4ae-0626b129d0d7/1.logoanimationcopy.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=96%2C0%2C1728%2C1080&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology",
+            "Finance"
+        ]
+    },
+    {
+        "title": "MethaneSAT",
+        "project_page_url": "https://www.pentagram.com/work/methanesat?rel=sector&rel-id=12",
+        "description": "Visual identity, data visualization, and website for the methane-tracking satellite",
+        "media_url": "https://pentagram-production.imgix.net/4322c168-52de-434c-9c06-bb3fb3a7b499/MethaneSAT_CaseStudy1.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=17%2C0%2C2804%2C1870&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Education",
+            "Technology"
+        ]
+    },
+    {
+        "title": "Digital Architecture Lab",
+        "project_page_url": "https://www.pentagram.com/work/digital-architecture-lab?rel=sector&rel-id=12",
+        "description": "Brand identity for the web3-focused innovation lab.",
+        "media_url": "https://pentagram-production.imgix.net/a1c99609-8aca-42cd-b23c-250ee3310bda/02LogoLockup.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=60%2C0%2C2880%2C1800&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Keel Labs",
+        "project_page_url": "https://www.pentagram.com/work/keel-labs?rel=sector&rel-id=12",
+        "description": "Brand identity for a sustainable materials company producing textiles with aquaculture-based technologies",
+        "media_url": "https://pentagram-production.imgix.net/85d7bc0c-7725-4679-9e07-499cc55f24ab/ANIMATION_01_LOGOcopy.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=96%2C0%2C1728%2C1080&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Fashion & Beauty",
+            "Manufacturing & Industrials",
+            "Technology"
+        ]
+    },
+    {
+        "title": "Galaxy",
+        "project_page_url": "https://www.pentagram.com/work/galaxy?rel=sector&rel-id=12",
+        "description": "Brand identity for the Web3 financial platform",
+        "media_url": "https://pentagram-production.imgix.net/45649d5f-30a2-4fbd-8c8e-37c4f38daf41/1_Logo_Animation_Webcopy.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=96%2C0%2C1728%2C1080&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology",
+            "Finance"
+        ]
+    },
+    {
+        "title": "Evernow",
+        "project_page_url": "https://www.pentagram.com/work/evernow?rel=sector&rel-id=12",
+        "description": "Brand identity and strategy for a science-based care company that is redefining menopause treatment for women",
+        "media_url": "https://pentagram-production.imgix.net/ba82eb05-4fe5-475a-a72c-75084a045f98/1_Hero_Logo.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C1920%2C1200&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Fashion & Beauty",
+            "Health",
+            "Technology"
+        ]
+    },
+    {
+        "title": "Skiff",
+        "project_page_url": "https://www.pentagram.com/work/skiff?rel=sector&rel-id=12",
+        "description": "Brand identity for the end-to-end encrypted collaboration platform",
+        "media_url": "https://pentagram-production.imgix.net/74f2edb7-ed36-4148-9a4b-8ade8c982a6c/01_Skiff_CaseStudy_3DLogocopy.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=9%2C37%2C1485%2C928&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Achieve",
+        "project_page_url": "https://www.pentagram.com/work/achieve?rel=sector&rel-id=12",
+        "description": "Brand identity and naming for the leader in digital personal finance",
+        "media_url": "https://pentagram-production.imgix.net/50e3db82-f0ca-48ce-95db-469c8cdc2683/09-21-22_Achieve_BlogPostcopy.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=96%2C0%2C1728%2C1080&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology",
+            "Finance"
+        ]
+    },
+    {
+        "title": "‘Kaiyo It!’",
+        "project_page_url": "https://www.pentagram.com/work/kaiyo-it?rel=sector&rel-id=12",
+        "description": "An ad campaign turns the brand name ‘Kaiyo’ into a call to action",
+        "media_url": "https://pentagram-production.imgix.net/ea327ab6-6259-4335-8a08-ef821d5040da/0_Thumbnail.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=192%2C0%2C3456%2C2160&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Consumer Brands",
+            "Technology"
+        ]
+    },
+    {
+        "title": "R² Factory",
+        "project_page_url": "https://www.pentagram.com/work/r2-factory?rel=sector&rel-id=12",
+        "description": "Brand identity for a company that helps its customers build successful and sustainable, data-driven businesses.",
+        "media_url": "https://pentagram-production.imgix.net/6b15743d-bc45-440f-ad77-b5ff53d253e3/AH_R2_MP4_Thumbnail_01.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=235%2C0%2C4036%2C2520&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Manufacturing & Industrials",
+            "Technology"
+        ]
+    },
+    {
+        "title": "Digital Turbine",
+        "project_page_url": "https://www.pentagram.com/work/digital-turbine?rel=sector&rel-id=12",
+        "description": "Brand identity for the Austin-based international advertising technology company.",
+        "media_url": "https://pentagram-production.imgix.net/cf1fb4d3-419d-4f53-87fd-42ee9080458a/3DT-Pentagram-BlogPost-03.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C41%2C2000%2C1250&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Realme",
+        "project_page_url": "https://www.pentagram.com/work/realme?rel=sector&rel-id=12",
+        "description": "Brand identity for one of the biggest youth smartphone brands in the world",
+        "media_url": "https://pentagram-production.imgix.net/d5ddc263-3753-45ab-a59b-3a206d04b827/01_realme_logo_animationcopy.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=96%2C0%2C1728%2C1080&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Tractable",
+        "project_page_url": "https://www.pentagram.com/work/tractable?rel=sector&rel-id=12",
+        "description": "Brand identity for the first computer vision unicorn for the insurance industry to help people repair, protect and transact on their homes and cars.",
+        "media_url": "https://pentagram-production.imgix.net/4c6a109c-ec22-4880-a689-337d6116eaef/01-Logo-Cover.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=288%2C0%2C5184%2C3240&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology",
+            "Finance"
+        ]
+    },
+    {
+        "title": "Wyth",
+        "project_page_url": "https://www.pentagram.com/work/wyth?rel=sector&rel-id=12",
+        "description": "A data-driven brand identity highlights the creative possibilities of a cloud-based experience platform",
+        "media_url": "https://pentagram-production.imgix.net/e0118309-92b8-49b5-97c2-f6be206f96a2/01_Logocopy.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=254%2C0%2C3587%2C2242&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Verizon Accessories",
+        "project_page_url": "https://www.pentagram.com/work/verizon-accessories?rel=sector&rel-id=12",
+        "description": "Packaging sustainability and user experience improvements for Verizon’s accessories range.",
+        "media_url": "https://pentagram-production.imgix.net/28e02c88-6a1f-4e1e-9d1a-f2f37525151c/JM_Verizon_Accessories_01.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C79%2C3840%2C2402&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Impala",
+        "project_page_url": "https://www.pentagram.com/work/impala?rel=sector&rel-id=12",
+        "description": "A new brand identity for a tech-driven travel platform that specialises in connecting hotels with customers",
+        "media_url": "https://pentagram-production.imgix.net/77661527-fbee-4493-b22d-bf8ad793c038/Impala-Thumbnail.svg?w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Verizon ‘5 States of Ready’",
+        "project_page_url": "https://www.pentagram.com/work/verizon-5-states-of-ready?rel=sector&rel-id=12",
+        "description": "Branding for Verizon Business Group uses data-driven storytelling to highlight its capabilities",
+        "media_url": "https://pentagram-production.imgix.net/96723b17-354f-4356-92bb-2aa0a8fa0703/00_versizon_5sor.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=98%2C0%2C1729%2C1080&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Tala",
+        "project_page_url": "https://www.pentagram.com/work/tala?rel=sector&rel-id=12",
+        "description": "Brand identity for a global technology company building digital financial services for emerging markets",
+        "media_url": "https://pentagram-production.imgix.net/0e512aa6-bd9a-48e8-8e09-c3479a19ad16/Tala-Animationcopy.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=660%2C0%2C3075%2C1920&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology",
+            "Finance"
+        ]
+    },
+    {
+        "title": "Graphcore, The Companio",
+        "project_page_url": "https://www.pentagram.com/work/graphcore-the-companio?rel=sector&rel-id=12",
+        "description": "Book design to articulate and communicate a very human approach to machine learning and an ongoing commitment to using technology for good.",
+        "media_url": "https://pentagram-production.imgix.net/90673b83-f978-4628-9862-41d6ca28c858/GraphcoreHandBook_WebCaseStudy_1.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=338%2C0%2C3460%2C2160&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Yoto Mini",
+        "project_page_url": "https://www.pentagram.com/work/yoto-mini?rel=sector&rel-id=12",
+        "description": "A smaller, more portable version of the award-winning screen-free audio platform for children.",
+        "media_url": "https://pentagram-production.imgix.net/4d026988-3fb5-4eae-b7ed-163c056831c5/JM_mini01.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C80%2C3840%2C2400&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "‘IEEE Spectrum’",
+        "project_page_url": "https://www.pentagram.com/work/ieee-spectrum?rel=sector&rel-id=12",
+        "description": "Editorial redesign of the technology magazine of the world’s largest professional organization devoted to engineering",
+        "media_url": "https://pentagram-production.imgix.net/5dacf2c5-2831-4f80-9e41-6392617b4c3b/IEEELOGO_1920x1080.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=316%2C0%2C5407%2C3376&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Cornerstone",
+        "project_page_url": "https://www.pentagram.com/work/cornerstone?rel=sector&rel-id=12",
+        "description": "Brand identity for the cloud-based HR solutions company",
+        "media_url": "https://pentagram-production.imgix.net/303944b5-931a-4a52-8477-823ed41ec633/21_Characters_Group_01_v24.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C94%2C2000%2C1333&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Oxford Ionics",
+        "project_page_url": "https://www.pentagram.com/work/oxford-ionics?rel=sector&rel-id=12",
+        "description": "Brand identity for a cutting-edge quantum computing technology company.",
+        "media_url": "https://pentagram-production.imgix.net/e728e6a1-1b6d-487f-9727-e57e8bc82a1d/Untitled-7.gif?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=169%2C0%2C1730%2C1080&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Convolution Reverb",
+        "project_page_url": "https://www.pentagram.com/work/convolution-reverb?rel=sector&rel-id=12",
+        "description": "An innovative sound experiment that looks at how spatial audio can be used to manipulate the scale of domestic space.",
+        "media_url": "https://pentagram-production.imgix.net/3b984826-167b-4bee-98d8-3f47906f72c3/YS_SPACE10_REVERB_FULLFILM_Sound.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=169%2C0%2C1730%2C1080&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Cazana",
+        "project_page_url": "https://www.pentagram.com/work/cazana?rel=sector&rel-id=12",
+        "description": "Brand identity for a business which uses big data to help the automotive and insurance markets see the full picture.",
+        "media_url": "https://pentagram-production.imgix.net/02287182-49a4-4e23-bf60-e896cbec8eec/MW_Cazana_Lockup.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=90%2C0%2C1729%2C1080&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Untapped",
+        "project_page_url": "https://www.pentagram.com/work/untapped?rel=sector&rel-id=12",
+        "description": "A candidate-focused SaaS recruitment platform based in Silicon Valley",
+        "media_url": "https://pentagram-production.imgix.net/52a29521-3f75-4042-ac4b-0b337034e769/CaseStudy34.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=288%2C0%2C5184%2C3240&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Oxide",
+        "project_page_url": "https://www.pentagram.com/work/oxide?rel=sector&rel-id=12",
+        "description": "Brand identity for a computer company building servers as they should be.",
+        "media_url": "https://pentagram-production.imgix.net/23bba129-2414-456d-a75b-051bff406e47/Oxide_WebsiteCaseStudy_01a.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C2873%2C1794&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Lightmatter Hardware",
+        "project_page_url": "https://www.pentagram.com/work/lightmatter-hardware?rel=sector&rel-id=12",
+        "description": "Industrial design of photonic computing hardware.",
+        "media_url": "https://pentagram-production.imgix.net/ec27a9ec-fb92-4d2e-bd18-f523b01b7498/JM_LM_WEB_02.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C2993%2C1870&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Lightmatter",
+        "project_page_url": "https://www.pentagram.com/work/lightmatter?rel=sector&rel-id=12",
+        "description": "Visual identity, brand positioning, product design and digital design for the photonic computing company",
+        "media_url": "https://pentagram-production.imgix.net/b5a997d0-9271-44bc-9f75-a50bc8e7805d/1_Hero_Product-Logo-1.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=4%2C0%2C2992%2C1870&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Manufacturing & Industrials",
+            "Technology"
+        ]
+    },
+    {
+        "title": "Beeline Velo 2",
+        "project_page_url": "https://www.pentagram.com/work/beeline-velo-2?rel=sector&rel-id=12",
+        "description": "Industrial design of a super simple bicycle navigation device with road-rating feedback contributing to a smart routing algorithm.",
+        "media_url": "https://pentagram-production.imgix.net/7055469e-52cc-411d-8aa3-c004b499b99a/JM_Beeline_web_01b.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=258%2C0%2C4797%2C3000&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Sound Bubbles",
+        "project_page_url": "https://www.pentagram.com/work/sound-bubbles?rel=sector&rel-id=12",
+        "description": "An innovative sound experiment that uses existing technologies to create invisible partitions in the home.",
+        "media_url": "https://pentagram-production.imgix.net/f8f9ece3-a25f-4b12-871b-146b34d3315f/YS_SPACE10_SOUNDBUBBLE_FULLFILM_SoundDesign_v4.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=234%2C0%2C2989%2C1870&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "‘Science Stack: Tools Within Reach’",
+        "project_page_url": "https://www.pentagram.com/work/science-stack-tools-within-reach?rel=sector&rel-id=12",
+        "description": "Interactive infographic for the Wilson Center exploring low cost and open-source tools",
+        "media_url": "https://pentagram-production.imgix.net/6d5b3d4e-edbf-4064-911b-63ba44cc8159/Website_1_Splash.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=85%2C0%2C1729%2C1080&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Arts & Culture",
+            "Non-profits",
+            "Manufacturing & Industrials",
+            "Technology"
+        ]
+    },
+    {
+        "title": "Calendly",
+        "project_page_url": "https://www.pentagram.com/work/calendly-2?rel=sector&rel-id=12",
+        "description": "Brand identity framework, brand strategy and messaging for the leading cloud-based scheduling platform.",
+        "media_url": "https://pentagram-production.imgix.net/5113c9d9-334f-4e33-8ee2-fa0c6a7b6cf2/EO_Calendly_4.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=158%2C0%2C1621%2C1080&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Plastic Air",
+        "project_page_url": "https://www.pentagram.com/work/plastic-air?rel=sector&rel-id=12",
+        "description": "Interactive experience for Google Arts & Culture exploring the environmental impact of airborne microplastics",
+        "media_url": "https://pentagram-production.imgix.net/8cf60b34-e49f-4fa8-bcf3-2c176f1803e4/GL_PlasticAir_00.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=4%2C0%2C2991%2C1870&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Arts & Culture",
+            "Technology"
+        ]
+    },
+    {
+        "title": "Quandela",
+        "project_page_url": "https://www.pentagram.com/work/quandela?rel=sector&rel-id=12",
+        "description": "Industrial design of an integrated system for producing optical qubits for quantum technologies.",
+        "media_url": "https://pentagram-production.imgix.net/ad1fb691-3a98-4997-921e-29cf45c92d00/JM_Quandela_17346.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C2993%2C1870&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Covid-19 Technology Task Force",
+        "project_page_url": "https://www.pentagram.com/work/covid-19-technology-task-force?rel=sector&rel-id=12",
+        "description": "A visualization illuminates the process of exposure notification (EN) contact tracing",
+        "media_url": "https://pentagram-production.imgix.net/ed36bfac-c1e6-4ddf-ae4f-ce31ade3918f/GL_C19_square_beige.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=4%2C0%2C2991%2C1870&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Health",
+            "Technology"
+        ]
+    },
+    {
+        "title": "Dashlane",
+        "project_page_url": "https://www.pentagram.com/work/dashlane?rel=sector&rel-id=12",
+        "description": "Brand identity framework for the identity and password management system",
+        "media_url": "https://pentagram-production.imgix.net/null728d31c4-88af-4870-97ce-b5165e653b24/Dashlane_Final_Master_1.gif?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=37%2C2%2C1195%2C746&w=1200&fm=mp4&h=800&q=70&auto=format",
+        "media_type": "video",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "TrueCar",
+        "project_page_url": "https://www.pentagram.com/work/truecar?rel=sector&rel-id=12",
+        "description": "Brand identity for the digital automotive marketplace",
+        "media_url": "https://pentagram-production.imgix.net/null7cb9dba1-e6f3-41fd-8e93-6fbac837755e/TrueCar_Thumbnail.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C2702%2C1688&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Consumer Brands",
+            "Technology"
+        ]
+    },
+    {
+        "title": "‘Toronto Tomorrow’",
+        "project_page_url": "https://www.pentagram.com/work/toronto-tomorrow?rel=sector&rel-id=12",
+        "description": "Design of the proposal by Sidewalk Labs to transform the city’s waterfront",
+        "media_url": "https://pentagram-production.imgix.net/e9329d55-27f2-471f-b2c4-63fc5a5a5f0c/eo_torontotomorrow_01.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C67%2C3000%2C1873&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Arts & Culture",
+            "Technology",
+            "Civic & Public"
+        ]
+    },
+    {
+        "title": "Yahoo",
+        "project_page_url": "https://www.pentagram.com/work/yahoo?rel=sector&rel-id=12",
+        "description": "Brand identity refresh for the iconic web service",
+        "media_url": "https://pentagram-production.imgix.net/99ec1157-8dfd-4645-8909-bd88b7869b7c/mb_yahoo_02.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C59%2C3000%2C1872&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Halma",
+        "project_page_url": "https://www.pentagram.com/work/halma?rel=sector&rel-id=12",
+        "description": "A new brand system for a life-saving technology company.",
+        "media_url": "https://pentagram-production.imgix.net/3a34357c-fc45-4e36-b07d-5d00486b8e9f/halma_casestudy_2.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=100%2C0%2C1728%2C1080&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Health",
+            "Technology"
+        ]
+    },
+    {
+        "title": "OPPO",
+        "project_page_url": "https://www.pentagram.com/work/oppo?rel=sector&rel-id=12",
+        "description": "Brand identity framework for the smartphone technology company",
+        "media_url": "https://pentagram-production.imgix.net/bf59d163-137c-4d56-a585-262fc86aeae7/eo_oppo_39.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=150%2C0%2C2688%2C1682&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Manufacturing & Industrials",
+            "Technology"
+        ]
+    },
+    {
+        "title": "The Knot",
+        "project_page_url": "https://www.pentagram.com/work/the-knot?rel=sector&rel-id=12",
+        "description": "Refreshed brand identity for the wedding planning website",
+        "media_url": "https://pentagram-production.imgix.net/0be25de2-7099-461e-87a9-225a2189692b/am_theknot_01.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C180%2C3000%2C1875&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Fashion & Beauty",
+            "Technology",
+            "Professional Services"
+        ]
+    },
+    {
+        "title": "Slack",
+        "project_page_url": "https://www.pentagram.com/work/slack?rel=sector&rel-id=12",
+        "description": "Brand identity for the collaboration hub",
+        "media_url": "https://pentagram-production.imgix.net/618d5092-a542-4dae-bd27-a3afb4bcc12d/mb_slack_01.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C74%2C3000%2C1872&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Pigzbe",
+        "project_page_url": "https://www.pentagram.com/work/pigzbe?rel=sector&rel-id=12",
+        "description": "Industrial design of a connected product that teaches kids about cryptocurrency",
+        "media_url": "https://pentagram-production.imgix.net/21f06e6a-4f32-4fe7-9e85-2c47e2e79946/jm_pigzbe_05.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C62%2C3547%2C2222&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Graphcore Hardware",
+        "project_page_url": "https://www.pentagram.com/work/graphcore-hardware?rel=sector&rel-id=12",
+        "description": "Industrial design of IPU and Rack Mount Chassis for a machine learning start-up",
+        "media_url": "https://pentagram-production.imgix.net/94a56d7c-4a4e-42d4-89e0-f86be2167c5b/cover.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=192%2C0%2C3471%2C2160&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Google News Lab—Building Hopes",
+        "project_page_url": "https://www.pentagram.com/work/google-news-labbuilding-hopes?rel=sector&rel-id=12",
+        "description": "Immersive data-art experience using augmented reality to explore data",
+        "media_url": "https://pentagram-production.imgix.net/2179b9d5-9771-4bdd-98df-eaa5d97605ff/gl_googlebuildinghopes_01.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=15%2C0%2C2868%2C1796&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Droit",
+        "project_page_url": "https://www.pentagram.com/work/droit?rel=sector&rel-id=12",
+        "description": "Identity for the financial technology company",
+        "media_url": "https://pentagram-production.imgix.net/ace539f4-cafb-4ab1-adc1-e405b8a4f9ac/nj_droit_04.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C3000%2C2000&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology",
+            "Finance"
+        ]
+    },
+    {
+        "title": "Cytora",
+        "project_page_url": "https://www.pentagram.com/work/cytora?rel=sector&rel-id=12",
+        "description": "Brand identity and website for an artificial intelligence company",
+        "media_url": "https://pentagram-production.imgix.net/ee01323d-84f7-4212-8dce-6fcf11646c6e/jhplp_01_cytora.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=150%2C0%2C2700%2C1688&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Visible",
+        "project_page_url": "https://www.pentagram.com/work/visible?rel=sector&rel-id=12",
+        "description": "Brand identity for a new wireless service provider",
+        "media_url": "https://pentagram-production.imgix.net/1bab2a0c-2683-4742-aa50-149dabb31c5c/nj_visible_01.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C59%2C3000%2C1872&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Fondazione Cariplo MEET",
+        "project_page_url": "https://www.pentagram.com/work/fondazione-cariplo-meet?rel=sector&rel-id=12",
+        "description": "Data-driven, interactive user experience for an archive of digital content",
+        "media_url": "https://pentagram-production.imgix.net/44d078d8-e053-4d8d-87a1-b07dfd2bcdd5/gl_meet_01.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C2784%2C1740&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Arts & Culture",
+            "Technology"
+        ]
+    },
+    {
+        "title": "Bruises : The Data We Don’t See",
+        "project_page_url": "https://www.pentagram.com/work/bruises-the-data-we-dont-see?rel=sector&rel-id=12",
+        "description": "Data visualization helping track and interpret a child’s illness",
+        "media_url": "https://pentagram-production.imgix.net/5b414a27-df55-4b0c-9a56-18b3fbdb1a25/gl_bruises_01.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=142%2C0%2C2700%2C1688&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Arts & Culture",
+            "Health",
+            "Technology"
+        ]
+    },
+    {
+        "title": "‘Watch This Space’",
+        "project_page_url": "https://www.pentagram.com/work/watch-this-space?rel=sector&rel-id=12",
+        "description": "A book examining the screen and its impact on society, the self and culture",
+        "media_url": "https://pentagram-production.imgix.net/29190425-cf53-4bb6-924c-34e4419b05e9/jhplp_01_watchthisspace.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C99%2C5000%2C3124&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Publishing",
+            "Arts & Culture",
+            "Technology"
+        ]
+    },
+    {
+        "title": "Samsung Galaxy",
+        "project_page_url": "https://www.pentagram.com/work/samsung-galaxy?rel=sector&rel-id=12",
+        "description": "Iconographic system for Samsung Mobile’s flagship smartphone",
+        "media_url": "https://pentagram-production.imgix.net/752e8524-6ed0-47a1-bfa5-da18cdd7609d/eo_samsung_new_01.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C28%2C1280%2C798&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Graphcore",
+        "project_page_url": "https://www.pentagram.com/work/graphcore?rel=sector&rel-id=12",
+        "description": "Identity, typeface and pattern generator for a machine learning start-up",
+        "media_url": "https://pentagram-production.imgix.net/899579b9-e90d-4b0a-a8c1-c92062c28778/jhp_lp_graphcore_01.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C2000%2C1250&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Manufacturing & Industrials",
+            "Technology"
+        ]
+    },
+    {
+        "title": "‘Designed by Apple in California’",
+        "project_page_url": "https://www.pentagram.com/work/designed-by-apple-in-california?rel=sector&rel-id=12",
+        "description": "Book design that chronicles 20 years of Apple design",
+        "media_url": "https://pentagram-production.imgix.net/dd689f3a-ef27-4db6-9ca7-f99b3482f98e/lh_designedbyapple_01.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C67%2C3000%2C1872&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Publishing",
+            "Technology"
+        ]
+    },
+    {
+        "title": "IBM Data Visualization Guidelines",
+        "project_page_url": "https://www.pentagram.com/work/ibm-data-visualization-guidelines?rel=sector&rel-id=12",
+        "description": "Guidelines for effective data visualizations for software products",
+        "media_url": "https://pentagram-production.imgix.net/52ac2e7b-b6f5-421c-b28b-1a7caf85159e/gl_ibm_02.jpg.avif?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C614%2C2000%2C1336&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Platform/15",
+        "project_page_url": "https://www.pentagram.com/work/platform15?rel=sector&rel-id=12",
+        "description": "Identity, wayfinding, and digital design for the annual summit",
+        "media_url": "https://pentagram-production.imgix.net/fd5235d3-a756-4c30-bfed-46f091623cd0/eo_platformsummit2015_16.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C127%2C3000%2C1872&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Non-profits",
+            "Technology"
+        ]
+    },
+    {
+        "title": "Google News Lab—World POTUS",
+        "project_page_url": "https://www.pentagram.com/work/google-news-labworld-potus?rel=sector&rel-id=12",
+        "description": "Data-driven digital experience for Google News Lab",
+        "media_url": "https://pentagram-production.imgix.net/c52cc383-3707-440d-b8f5-74308a6320c7/gl_worldpotus_01.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C1280%2C800&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Publishing",
+            "Technology"
+        ]
+    },
+    {
+        "title": "Resonate",
+        "project_page_url": "https://www.pentagram.com/work/resonate?rel=sector&rel-id=12",
+        "description": "Identity, font and glyph system for an international digital arts festival",
+        "media_url": "https://pentagram-production.imgix.net/wp/592d441f0d621/resonate-05.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C1280%2C800&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "Platform Summit 2014",
+        "project_page_url": "https://www.pentagram.com/work/platform-summit-2014?rel=sector&rel-id=12",
+        "description": "Identity, wayfinding, and digital design for the second annual Platform event",
+        "media_url": "https://pentagram-production.imgix.net/01007569-9678-4ca0-ac37-c9702d2d57d5/eo_platform2014_16.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C127%2C3000%2C1872&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Non-profits",
+            "Technology"
+        ]
+    },
+    {
+        "title": "Friends in Space",
+        "project_page_url": "https://www.pentagram.com/work/friends-in-space?rel=sector&rel-id=12",
+        "description": "Digital app to communicate with the first female Italian astronaut in space",
+        "media_url": "https://pentagram-production.imgix.net/82166884-a935-4144-9e2a-157ce8e5b94b/friendsinspace.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=10%2C0%2C4233%2C2645&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    },
+    {
+        "title": "MIT Media Lab",
+        "project_page_url": "https://www.pentagram.com/work/mit-media-lab?rel=sector&rel-id=12",
+        "description": "Identity and wayfinding for the interdisciplinary research lab",
+        "media_url": "https://pentagram-production.imgix.net/f8380a94-0557-49a5-b897-60f49ac77b68/mb_mitmedialab_02.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C59%2C3000%2C1873&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Education",
+            "Technology"
+        ]
+    },
+    {
+        "title": "Index Ventures",
+        "project_page_url": "https://www.pentagram.com/work/index-ventures-1?rel=sector&rel-id=12",
+        "description": "Brand identity for Europe's leading venture capital firm",
+        "media_url": "https://pentagram-production.imgix.net/090aae51-ca5a-4137-a5c2-e61801e27435/jr_indexventures_01.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C84%2C2000%2C1249&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology",
+            "Finance"
+        ]
+    },
+    {
+        "title": "Makr Shakr",
+        "project_page_url": "https://www.pentagram.com/work/makr-shakr-1?rel=sector&rel-id=12",
+        "description": "Identity, web app, and data visualization for a robotic mixology installation",
+        "media_url": "https://pentagram-production.imgix.net/786d20c3-aaab-4149-89e4-4c75bda62a6c/eo_makrshakr_01.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=157%2C0%2C2676%2C1669&w=32&fit=crop&blur=200&q=20&fm=jpg&auto=false&h=20",
+        "media_type": "image_from_picture_style",
+        "categories": [
+            "Technology"
+        ]
+    }
+]
