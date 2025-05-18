@@ -6,10 +6,10 @@ client = MongoClient("mongodb+srv://Himanshu:Himanshu#0987@cluster0.mbirvgi.mong
 
 # Step 2: Select database and collection
 db = client["agency_database"]           # Database name
-collection = db["agency_projects"]        # Collection name
+collection = db["koto_projects"]        # Collection name
 
 # Step 3: Load your JSON file
-with open("koto_projects.json", "r", encoding="utf-8") as f:
+with open("koto_data.json", "r", encoding="utf-8") as f:
     projects = json.load(f)
 
 # Step 4: Insert into MongoDB
